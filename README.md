@@ -47,23 +47,23 @@ The project uses the following key dependencies:
 
 1. **Launch the app:**
 
-    Launch the app on your device.
+   - Launch the app on your device.
 
 2. **Start Testing:**
 
-    Press the "Start Testing" button to initiate the speed test.
+   - Press the "Start Testing" button to initiate the speed test.
 
 3. **Monitor Progress:**
 
-    Monitor the download and upload progress, rates, and completion times.
+   - Monitor the download and upload progress, rates, and completion times.
 
 4. **Server Information:**
 
-    Server information will be displayed once the default server selection is done.
+   - Server information will be displayed once the default server selection is done.
 
 5. **Cancel Test:**
 
-    Cancel the test at any time using the "Cancel" button.
+   - Cancel the test at any time using the "Cancel" button.
 
 ## Contributions 🤝
 
